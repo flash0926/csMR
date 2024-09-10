@@ -1,3 +1,10 @@
+·本仓库由医工科研团队kim老师维护
+·使用本仓库时，需要先对源rhhao/csMR 有大致的了解，请阅读他的相关文献，再开始这个仓库的使用  
+·本仓库从rhhao/csMR原本仓库拉取分支 在这个仓库的基础上 进一步增加了下方的功能  
+·适配了window平台的流程，增加了该平台使用的完整环境配置流程  
+·增加了数据的格式化方法  
+
+
 # csMR
 
 We introduce the **C**ell-**S**tratified **M**endelian **R**andomization (**csMR**) framework to find cell-stratified causality of complex traits/diseases by integrating GWAS and single-cell eQTL data.
